@@ -1,0 +1,14 @@
+# 构建输出（可用 build.ps1 / build-installer.ps1 重新生成）
+dist/
+tools/*.exe
+tools/shots/
+
+# 便携版解压目录（仓库内只保留 zip）
+release/C盘清理大师 v3.0/
+
+# 临时与本地文件
+*.user
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
