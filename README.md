@@ -2,7 +2,18 @@
 
 现代化界面的 Windows C 盘清理软件。基于 WebView2 构建界面，保留 v2 的安全清理引擎，新增更完整的软件缓存、DeepSeek Harness 旧版本清理、空间分析和 HTML 报告。
 
+[![Release](https://img.shields.io/github/v/release/lichenzhen0713/C-Drive-Cleaner?label=release&color=2563eb)](https://github.com/lichenzhen0713/C-Drive-Cleaner/releases/latest)
+
 ![主界面](docs/app.png)
+
+## 下载
+
+| 文件 | 说明 |
+| --- | --- |
+| [CDriveCleaner-3.0-Setup.exe](https://github.com/lichenzhen0713/C-Drive-Cleaner/releases/download/v3.0/CDriveCleaner-3.0-Setup.exe) | 单文件安装包（x64，需要管理员权限） |
+| [CDriveCleaner-3.0-portable-win64.zip](https://github.com/lichenzhen0713/C-Drive-Cleaner/releases/download/v3.0/CDriveCleaner-3.0-portable-win64.zip) | 便携版，解压即用 |
+
+仓库内的 `release\` 目录同时保留中文名的同名文件（`C盘清理大师-3.0-安装包.exe`、`C盘清理大师-v3.0-win64.zip`）。
 
 ## 运行要求
 
